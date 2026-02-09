@@ -4,7 +4,7 @@ app:
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
   instances:
-    # q: consider availability zones? 
+    # q: consider availability zones?
 
     # min number of instances. can be 0 for scale to 0. default to 1.
     min: 1
