@@ -9,7 +9,7 @@ app:
     # min number of instances. can be 0 for scale to 0. default to 1.
     min: 1
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
-    # q: what's the overall limit?
+    # q: what's the overall limit? 
     max: 2
   resources:
     # max cpu, defaults to 1 cpu limit, half of that for min, min >= 1
